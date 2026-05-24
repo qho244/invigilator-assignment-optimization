@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Invigilator Assignment Optimization
 
 Multi-objective CP-SAT optimization model for university exam invigilator assignment scheduling.
