@@ -1,0 +1,26 @@
+{
+  "seed": 42,
+  "n_invigilators": 73,
+  "n_shifts": 65,
+  "tier_distribution": {
+    "JUNIOR": 48,
+    "MID": 20,
+    "SENIOR": 5
+  },
+  "location_distribution": {
+    "BALANCED": 57,
+    "NEAR_CS2": 11,
+    "NEAR_CS1": 5
+  },
+  "baseline_workload": {
+    "mean": 10.534246575342467,
+    "std": 2.2241239959739825,
+    "min": 3,
+    "max": 19
+  },
+  "synthesis_rules": {
+    "tier": "from data: CHAIR→SENIOR, TK→MID, else JUNIOR",
+    "location": "≥80% baseline campus share → NEAR_CSx, else BALANCED",
+    "pref": "50 + 20·same_campus + 15·hist_pair + U[-10,10], clipped to [0,100]"
+  }
+}

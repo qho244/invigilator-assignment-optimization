@@ -1,0 +1,5 @@
+constraint,status,count
+H1 Demand,PASS,195
+H2 Eligibility,PASS,769
+H4 No overlap,PASS,769
+H5 Workload cap,PASS,73

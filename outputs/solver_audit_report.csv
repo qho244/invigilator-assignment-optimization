@@ -1,0 +1,1807 @@
+constraint,item,required,actual,status
+H1 Demand,"shift=20260518_5, role=CBCT",2,2,PASS
+H1 Demand,"shift=20260518_5, role=TK",0,0,PASS
+H1 Demand,"shift=20260518_5, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260519_5, role=CBCT",3,3,PASS
+H1 Demand,"shift=20260519_5, role=TK",0,0,PASS
+H1 Demand,"shift=20260519_5, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260521_5, role=CBCT",2,2,PASS
+H1 Demand,"shift=20260521_5, role=TK",0,0,PASS
+H1 Demand,"shift=20260521_5, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260522_5, role=CBCT",2,2,PASS
+H1 Demand,"shift=20260522_5, role=TK",0,0,PASS
+H1 Demand,"shift=20260522_5, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260523_3, role=CBCT",6,6,PASS
+H1 Demand,"shift=20260523_3, role=TK",0,0,PASS
+H1 Demand,"shift=20260523_3, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260525_2, role=CBCT",16,16,PASS
+H1 Demand,"shift=20260525_2, role=TK",1,1,PASS
+H1 Demand,"shift=20260525_2, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260525_5, role=CBCT",3,3,PASS
+H1 Demand,"shift=20260525_5, role=TK",0,0,PASS
+H1 Demand,"shift=20260525_5, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260526_5, role=CBCT",2,2,PASS
+H1 Demand,"shift=20260526_5, role=TK",0,0,PASS
+H1 Demand,"shift=20260526_5, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260527_2, role=CBCT",0,0,PASS
+H1 Demand,"shift=20260527_2, role=TK",2,2,PASS
+H1 Demand,"shift=20260527_2, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260527_4, role=CBCT",0,0,PASS
+H1 Demand,"shift=20260527_4, role=TK",0,0,PASS
+H1 Demand,"shift=20260527_4, role=CHAIR",1,1,PASS
+H1 Demand,"shift=20260527_5, role=CBCT",3,3,PASS
+H1 Demand,"shift=20260527_5, role=TK",0,0,PASS
+H1 Demand,"shift=20260527_5, role=CHAIR",1,1,PASS
+H1 Demand,"shift=20260528_1, role=CBCT",0,0,PASS
+H1 Demand,"shift=20260528_1, role=TK",0,0,PASS
+H1 Demand,"shift=20260528_1, role=CHAIR",1,1,PASS
+H1 Demand,"shift=20260528_2, role=CBCT",0,0,PASS
+H1 Demand,"shift=20260528_2, role=TK",0,0,PASS
+H1 Demand,"shift=20260528_2, role=CHAIR",1,1,PASS
+H1 Demand,"shift=20260528_3, role=CBCT",12,12,PASS
+H1 Demand,"shift=20260528_3, role=TK",2,2,PASS
+H1 Demand,"shift=20260528_3, role=CHAIR",1,1,PASS
+H1 Demand,"shift=20260528_4, role=CBCT",0,0,PASS
+H1 Demand,"shift=20260528_4, role=TK",0,0,PASS
+H1 Demand,"shift=20260528_4, role=CHAIR",1,1,PASS
+H1 Demand,"shift=20260528_5, role=CBCT",2,2,PASS
+H1 Demand,"shift=20260528_5, role=TK",0,0,PASS
+H1 Demand,"shift=20260528_5, role=CHAIR",1,1,PASS
+H1 Demand,"shift=20260529_1, role=CBCT",30,30,PASS
+H1 Demand,"shift=20260529_1, role=TK",1,1,PASS
+H1 Demand,"shift=20260529_1, role=CHAIR",1,1,PASS
+H1 Demand,"shift=20260529_2, role=CBCT",0,0,PASS
+H1 Demand,"shift=20260529_2, role=TK",0,0,PASS
+H1 Demand,"shift=20260529_2, role=CHAIR",1,1,PASS
+H1 Demand,"shift=20260529_3, role=CBCT",0,0,PASS
+H1 Demand,"shift=20260529_3, role=TK",0,0,PASS
+H1 Demand,"shift=20260529_3, role=CHAIR",1,1,PASS
+H1 Demand,"shift=20260529_5, role=CBCT",3,3,PASS
+H1 Demand,"shift=20260529_5, role=TK",0,0,PASS
+H1 Demand,"shift=20260529_5, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260530_2, role=CBCT",4,4,PASS
+H1 Demand,"shift=20260530_2, role=TK",0,0,PASS
+H1 Demand,"shift=20260530_2, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260530_3, role=CBCT",4,4,PASS
+H1 Demand,"shift=20260530_3, role=TK",0,0,PASS
+H1 Demand,"shift=20260530_3, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260531_2, role=CBCT",4,4,PASS
+H1 Demand,"shift=20260531_2, role=TK",0,0,PASS
+H1 Demand,"shift=20260531_2, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260531_3, role=CBCT",4,4,PASS
+H1 Demand,"shift=20260531_3, role=TK",0,0,PASS
+H1 Demand,"shift=20260531_3, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260601_1, role=CBCT",0,0,PASS
+H1 Demand,"shift=20260601_1, role=TK",0,0,PASS
+H1 Demand,"shift=20260601_1, role=CHAIR",1,1,PASS
+H1 Demand,"shift=20260601_2, role=CBCT",30,30,PASS
+H1 Demand,"shift=20260601_2, role=TK",1,1,PASS
+H1 Demand,"shift=20260601_2, role=CHAIR",1,1,PASS
+H1 Demand,"shift=20260601_3, role=CBCT",27,27,PASS
+H1 Demand,"shift=20260601_3, role=TK",0,0,PASS
+H1 Demand,"shift=20260601_3, role=CHAIR",1,1,PASS
+H1 Demand,"shift=20260601_4, role=CBCT",0,0,PASS
+H1 Demand,"shift=20260601_4, role=TK",0,0,PASS
+H1 Demand,"shift=20260601_4, role=CHAIR",1,1,PASS
+H1 Demand,"shift=20260601_5, role=CBCT",1,1,PASS
+H1 Demand,"shift=20260601_5, role=TK",0,0,PASS
+H1 Demand,"shift=20260601_5, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260602_1, role=CBCT",0,0,PASS
+H1 Demand,"shift=20260602_1, role=TK",0,0,PASS
+H1 Demand,"shift=20260602_1, role=CHAIR",1,1,PASS
+H1 Demand,"shift=20260602_2, role=CBCT",30,30,PASS
+H1 Demand,"shift=20260602_2, role=TK",1,1,PASS
+H1 Demand,"shift=20260602_2, role=CHAIR",1,1,PASS
+H1 Demand,"shift=20260602_3, role=CBCT",30,30,PASS
+H1 Demand,"shift=20260602_3, role=TK",1,1,PASS
+H1 Demand,"shift=20260602_3, role=CHAIR",1,1,PASS
+H1 Demand,"shift=20260602_4, role=CBCT",13,13,PASS
+H1 Demand,"shift=20260602_4, role=TK",1,1,PASS
+H1 Demand,"shift=20260602_4, role=CHAIR",1,1,PASS
+H1 Demand,"shift=20260602_5, role=CBCT",2,2,PASS
+H1 Demand,"shift=20260602_5, role=TK",0,0,PASS
+H1 Demand,"shift=20260602_5, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260603_1, role=CBCT",30,30,PASS
+H1 Demand,"shift=20260603_1, role=TK",1,1,PASS
+H1 Demand,"shift=20260603_1, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260603_2, role=CBCT",30,30,PASS
+H1 Demand,"shift=20260603_2, role=TK",1,1,PASS
+H1 Demand,"shift=20260603_2, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260603_3, role=CBCT",30,30,PASS
+H1 Demand,"shift=20260603_3, role=TK",1,1,PASS
+H1 Demand,"shift=20260603_3, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260603_4, role=CBCT",20,20,PASS
+H1 Demand,"shift=20260603_4, role=TK",1,1,PASS
+H1 Demand,"shift=20260603_4, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260604_1, role=CBCT",9,9,PASS
+H1 Demand,"shift=20260604_1, role=TK",1,1,PASS
+H1 Demand,"shift=20260604_1, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260604_2, role=CBCT",4,4,PASS
+H1 Demand,"shift=20260604_2, role=TK",7,7,PASS
+H1 Demand,"shift=20260604_2, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260604_3, role=CBCT",0,0,PASS
+H1 Demand,"shift=20260604_3, role=TK",2,2,PASS
+H1 Demand,"shift=20260604_3, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260605_2, role=CBCT",22,22,PASS
+H1 Demand,"shift=20260605_2, role=TK",0,0,PASS
+H1 Demand,"shift=20260605_2, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260605_3, role=CBCT",30,30,PASS
+H1 Demand,"shift=20260605_3, role=TK",0,0,PASS
+H1 Demand,"shift=20260605_3, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260605_4, role=CBCT",5,5,PASS
+H1 Demand,"shift=20260605_4, role=TK",0,0,PASS
+H1 Demand,"shift=20260605_4, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260608_1, role=CBCT",2,2,PASS
+H1 Demand,"shift=20260608_1, role=TK",0,0,PASS
+H1 Demand,"shift=20260608_1, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260608_2, role=CBCT",33,33,PASS
+H1 Demand,"shift=20260608_2, role=TK",0,0,PASS
+H1 Demand,"shift=20260608_2, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260608_3, role=CBCT",33,33,PASS
+H1 Demand,"shift=20260608_3, role=TK",0,0,PASS
+H1 Demand,"shift=20260608_3, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260608_4, role=CBCT",7,7,PASS
+H1 Demand,"shift=20260608_4, role=TK",0,0,PASS
+H1 Demand,"shift=20260608_4, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260609_2, role=CBCT",20,20,PASS
+H1 Demand,"shift=20260609_2, role=TK",5,5,PASS
+H1 Demand,"shift=20260609_2, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260609_3, role=CBCT",15,15,PASS
+H1 Demand,"shift=20260609_3, role=TK",0,0,PASS
+H1 Demand,"shift=20260609_3, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260609_4, role=CBCT",1,1,PASS
+H1 Demand,"shift=20260609_4, role=TK",0,0,PASS
+H1 Demand,"shift=20260609_4, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260610_1, role=CBCT",2,2,PASS
+H1 Demand,"shift=20260610_1, role=TK",0,0,PASS
+H1 Demand,"shift=20260610_1, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260610_2, role=CBCT",1,1,PASS
+H1 Demand,"shift=20260610_2, role=TK",0,0,PASS
+H1 Demand,"shift=20260610_2, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260610_3, role=CBCT",31,31,PASS
+H1 Demand,"shift=20260610_3, role=TK",4,4,PASS
+H1 Demand,"shift=20260610_3, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260610_4, role=CBCT",1,1,PASS
+H1 Demand,"shift=20260610_4, role=TK",0,0,PASS
+H1 Demand,"shift=20260610_4, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260611_1, role=CBCT",1,1,PASS
+H1 Demand,"shift=20260611_1, role=TK",0,0,PASS
+H1 Demand,"shift=20260611_1, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260611_3, role=CBCT",29,29,PASS
+H1 Demand,"shift=20260611_3, role=TK",2,2,PASS
+H1 Demand,"shift=20260611_3, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260612_1, role=CBCT",32,32,PASS
+H1 Demand,"shift=20260612_1, role=TK",0,0,PASS
+H1 Demand,"shift=20260612_1, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260612_2, role=CBCT",6,6,PASS
+H1 Demand,"shift=20260612_2, role=TK",0,0,PASS
+H1 Demand,"shift=20260612_2, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260612_3, role=CBCT",33,33,PASS
+H1 Demand,"shift=20260612_3, role=TK",0,0,PASS
+H1 Demand,"shift=20260612_3, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260612_4, role=CBCT",22,22,PASS
+H1 Demand,"shift=20260612_4, role=TK",0,0,PASS
+H1 Demand,"shift=20260612_4, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260613_1, role=CBCT",4,4,PASS
+H1 Demand,"shift=20260613_1, role=TK",0,0,PASS
+H1 Demand,"shift=20260613_1, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260613_2, role=CBCT",8,8,PASS
+H1 Demand,"shift=20260613_2, role=TK",0,0,PASS
+H1 Demand,"shift=20260613_2, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260613_3, role=CBCT",10,10,PASS
+H1 Demand,"shift=20260613_3, role=TK",0,0,PASS
+H1 Demand,"shift=20260613_3, role=CHAIR",0,0,PASS
+H1 Demand,"shift=20260613_4, role=CBCT",10,10,PASS
+H1 Demand,"shift=20260613_4, role=TK",0,0,PASS
+H1 Demand,"shift=20260613_4, role=CHAIR",0,0,PASS
+H2 Eligibility,"CB=CB001, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB001, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB001, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB001, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB001, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB001, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB001, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB001, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB001, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB001, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB001, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB002, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB002, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB002, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB002, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB002, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB002, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB002, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB002, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB002, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB002, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB002, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB003, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB003, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB003, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB003, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB003, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB003, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB003, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB003, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB003, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB003, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB003, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB004, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB004, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB004, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB004, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB004, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB004, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB004, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB004, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB004, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB004, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB004, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB005, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB005, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB005, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB005, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB005, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB005, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB005, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB005, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB005, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB005, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB006, role=TK",eligible,True,PASS
+H2 Eligibility,"CB=CB006, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB006, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB006, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB006, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB006, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB006, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB006, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB006, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB006, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB007, role=TK",eligible,True,PASS
+H2 Eligibility,"CB=CB007, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB007, role=TK",eligible,True,PASS
+H2 Eligibility,"CB=CB007, role=TK",eligible,True,PASS
+H2 Eligibility,"CB=CB007, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB007, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB007, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB007, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB007, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB007, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB008, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB008, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB008, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB008, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB008, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB008, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB008, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB008, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB008, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB008, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB008, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB009, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB009, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB009, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB009, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB009, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB009, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB009, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB009, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB009, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB009, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB009, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB010, role=CHAIR",eligible,True,PASS
+H2 Eligibility,"CB=CB010, role=CHAIR",eligible,True,PASS
+H2 Eligibility,"CB=CB010, role=CHAIR",eligible,True,PASS
+H2 Eligibility,"CB=CB010, role=CHAIR",eligible,True,PASS
+H2 Eligibility,"CB=CB010, role=CHAIR",eligible,True,PASS
+H2 Eligibility,"CB=CB010, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB011, role=CHAIR",eligible,True,PASS
+H2 Eligibility,"CB=CB011, role=CHAIR",eligible,True,PASS
+H2 Eligibility,"CB=CB011, role=CHAIR",eligible,True,PASS
+H2 Eligibility,"CB=CB011, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB011, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB012, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB012, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB012, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB012, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB012, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB012, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB012, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB012, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB012, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB012, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB012, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB013, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB013, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB013, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB013, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB013, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB013, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB013, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB013, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB013, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB013, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB013, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB014, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB014, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB014, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB014, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB014, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB014, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB014, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB014, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB014, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB014, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB014, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB015, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB015, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB015, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB015, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB015, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB015, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB015, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB015, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB015, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB015, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB015, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB016, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB016, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB016, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB016, role=TK",eligible,True,PASS
+H2 Eligibility,"CB=CB016, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB016, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB016, role=TK",eligible,True,PASS
+H2 Eligibility,"CB=CB016, role=TK",eligible,True,PASS
+H2 Eligibility,"CB=CB016, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB016, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB017, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB017, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB017, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB017, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB017, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB017, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB017, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB017, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB017, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB017, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB018, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB018, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB018, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB018, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB018, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB018, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB018, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB018, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB018, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB018, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB018, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB018, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB018, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB018, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB018, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB019, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB019, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB019, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB019, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB019, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB019, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB019, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB019, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB019, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB019, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB019, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB020, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB020, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB020, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB020, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB020, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB020, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB020, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB020, role=TK",eligible,True,PASS
+H2 Eligibility,"CB=CB020, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB020, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB021, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB021, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB021, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB021, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB021, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB021, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB021, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB021, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB021, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB021, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB021, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB022, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB022, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB022, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB022, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB022, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB022, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB022, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB022, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB022, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB022, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB022, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB023, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB023, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB023, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB023, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB023, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB023, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB023, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB023, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB023, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB023, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB023, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB024, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB024, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB024, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB024, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB024, role=TK",eligible,True,PASS
+H2 Eligibility,"CB=CB024, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB024, role=TK",eligible,True,PASS
+H2 Eligibility,"CB=CB024, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB024, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB024, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB025, role=TK",eligible,True,PASS
+H2 Eligibility,"CB=CB025, role=TK",eligible,True,PASS
+H2 Eligibility,"CB=CB025, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB025, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB025, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB025, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB025, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB025, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB025, role=TK",eligible,True,PASS
+H2 Eligibility,"CB=CB025, role=TK",eligible,True,PASS
+H2 Eligibility,"CB=CB025, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB025, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB025, role=TK",eligible,True,PASS
+H2 Eligibility,"CB=CB025, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB025, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB026, role=TK",eligible,True,PASS
+H2 Eligibility,"CB=CB026, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB026, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB026, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB026, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB026, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB026, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB026, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB026, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB026, role=TK",eligible,True,PASS
+H2 Eligibility,"CB=CB027, role=CHAIR",eligible,True,PASS
+H2 Eligibility,"CB=CB027, role=CHAIR",eligible,True,PASS
+H2 Eligibility,"CB=CB027, role=CHAIR",eligible,True,PASS
+H2 Eligibility,"CB=CB027, role=CHAIR",eligible,True,PASS
+H2 Eligibility,"CB=CB027, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB028, role=CHAIR",eligible,True,PASS
+H2 Eligibility,"CB=CB028, role=CHAIR",eligible,True,PASS
+H2 Eligibility,"CB=CB028, role=CHAIR",eligible,True,PASS
+H2 Eligibility,"CB=CB028, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB028, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB029, role=CHAIR",eligible,True,PASS
+H2 Eligibility,"CB=CB029, role=CHAIR",eligible,True,PASS
+H2 Eligibility,"CB=CB029, role=CHAIR",eligible,True,PASS
+H2 Eligibility,"CB=CB029, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB029, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB030, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB030, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB030, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB030, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB030, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB030, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB030, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB030, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB030, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB030, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB030, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB031, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB031, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB031, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB031, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB031, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB031, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB031, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB031, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB031, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB031, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB031, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB032, role=TK",eligible,True,PASS
+H2 Eligibility,"CB=CB032, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB032, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB032, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB032, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB032, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB032, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB032, role=TK",eligible,True,PASS
+H2 Eligibility,"CB=CB032, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB032, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB033, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB033, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB033, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB033, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB033, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB033, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB033, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB033, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB033, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB033, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB033, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB034, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB034, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB034, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB034, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB034, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB034, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB034, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB034, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB034, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB034, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB034, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB035, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB035, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB035, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB035, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB035, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB035, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB035, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB035, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB035, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB035, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB035, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB036, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB036, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB036, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB036, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB036, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB036, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB036, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB036, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB036, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB036, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB036, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB037, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB037, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB037, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB037, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB037, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB037, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB037, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB037, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB037, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB037, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB037, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB038, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB038, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB038, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB038, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB038, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB038, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB038, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB038, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB038, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB038, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB038, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB038, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB039, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB039, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB039, role=TK",eligible,True,PASS
+H2 Eligibility,"CB=CB039, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB039, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB039, role=TK",eligible,True,PASS
+H2 Eligibility,"CB=CB039, role=TK",eligible,True,PASS
+H2 Eligibility,"CB=CB039, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB039, role=TK",eligible,True,PASS
+H2 Eligibility,"CB=CB039, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB039, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB039, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB040, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB040, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB040, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB040, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB040, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB040, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB040, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB040, role=TK",eligible,True,PASS
+H2 Eligibility,"CB=CB040, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB040, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB041, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB041, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB041, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB041, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB041, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB041, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB041, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB041, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB041, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB041, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB041, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB042, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB042, role=TK",eligible,True,PASS
+H2 Eligibility,"CB=CB042, role=TK",eligible,True,PASS
+H2 Eligibility,"CB=CB042, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB042, role=TK",eligible,True,PASS
+H2 Eligibility,"CB=CB042, role=TK",eligible,True,PASS
+H2 Eligibility,"CB=CB042, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB042, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB042, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB042, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB043, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB043, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB043, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB043, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB043, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB043, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB043, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB043, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB043, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB043, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB044, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB044, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB044, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB044, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB044, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB044, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB044, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB044, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB044, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB044, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB044, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB045, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB045, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB045, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB045, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB045, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB045, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB045, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB045, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB045, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB045, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB045, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB046, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB046, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB046, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB046, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB046, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB046, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB046, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB046, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB046, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB046, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB046, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB047, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB047, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB047, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB047, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB047, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB047, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB047, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB047, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB047, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB047, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB048, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB048, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB048, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB048, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB048, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB048, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB048, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB048, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB048, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB048, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB048, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB049, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB049, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB049, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB049, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB049, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB049, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB049, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB049, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB049, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB049, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB049, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB050, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB050, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB050, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB050, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB050, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB050, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB050, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB050, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB050, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB050, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB050, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB051, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB051, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB051, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB051, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB051, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB051, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB051, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB051, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB051, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB051, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB051, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB052, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB052, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB052, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB052, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB052, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB052, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB052, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB052, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB052, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB052, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB052, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB053, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB053, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB053, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB053, role=TK",eligible,True,PASS
+H2 Eligibility,"CB=CB053, role=TK",eligible,True,PASS
+H2 Eligibility,"CB=CB053, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB053, role=TK",eligible,True,PASS
+H2 Eligibility,"CB=CB053, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB053, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB053, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB054, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB054, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB054, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB054, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB054, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB054, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB054, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB054, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB054, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB054, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB054, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB055, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB055, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB055, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB055, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB055, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB055, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB055, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB055, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB055, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB055, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB055, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB056, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB056, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB056, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB056, role=TK",eligible,True,PASS
+H2 Eligibility,"CB=CB056, role=TK",eligible,True,PASS
+H2 Eligibility,"CB=CB056, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB056, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB056, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB056, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB056, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB057, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB057, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB057, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB057, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB057, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB057, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB057, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB057, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB057, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB057, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB057, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB058, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB058, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB058, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB058, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB058, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB058, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB058, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB058, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB058, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB058, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB058, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB059, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB059, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB059, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB059, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB059, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB059, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB059, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB059, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB059, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB059, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB059, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB060, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB060, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB060, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB060, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB060, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB060, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB060, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB060, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB060, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB060, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB060, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB061, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB061, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB061, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB061, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB061, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB061, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB061, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB061, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB061, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB061, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB061, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB062, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB062, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB062, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB062, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB062, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB062, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB062, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB062, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB062, role=TK",eligible,True,PASS
+H2 Eligibility,"CB=CB062, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB062, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB062, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB063, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB063, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB063, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB063, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB063, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB063, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB063, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB063, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB063, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB063, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB063, role=TK",eligible,True,PASS
+H2 Eligibility,"CB=CB063, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB064, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB064, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB064, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB064, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB064, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB064, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB064, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB064, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB064, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB064, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB064, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB065, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB065, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB065, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB065, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB065, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB065, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB065, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB065, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB065, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB065, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB066, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB066, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB066, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB066, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB066, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB066, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB066, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB066, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB066, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB066, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB066, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB067, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB067, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB067, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB067, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB067, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB067, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB067, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB067, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB067, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB067, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB067, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB068, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB068, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB068, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB068, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB068, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB068, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB068, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB068, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB068, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB068, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB069, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB069, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB069, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB069, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB069, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB069, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB069, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB069, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB069, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB069, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB069, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB070, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB070, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB070, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB070, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB070, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB070, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB070, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB070, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB070, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB070, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB070, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB071, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB071, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB071, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB071, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB071, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB071, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB071, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB071, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB071, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB071, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB071, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB072, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB072, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB072, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB072, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB072, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB072, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB072, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB072, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB072, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB072, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB072, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB073, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB073, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB073, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB073, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB073, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB073, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB073, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB073, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB073, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB073, role=CBCT",eligible,True,PASS
+H2 Eligibility,"CB=CB073, role=CBCT",eligible,True,PASS
+H4 No overlap,"CB=CB001, date=2026-05-18, time=18g15",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB001, date=2026-05-25, time=18g15",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB001, date=2026-05-30, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB001, date=2026-05-30, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB001, date=2026-05-31, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB001, date=2026-05-31, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB001, date=2026-06-05, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB001, date=2026-06-05, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB001, date=2026-06-05, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB001, date=2026-06-08, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB001, date=2026-06-13, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB002, date=2026-05-18, time=18g15",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB002, date=2026-05-22, time=18g15",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB002, date=2026-05-23, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB002, date=2026-05-25, time=18g15",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB002, date=2026-05-27, time=18g15",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB002, date=2026-05-30, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB002, date=2026-05-31, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB002, date=2026-06-02, time=18g15",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB002, date=2026-06-08, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB002, date=2026-06-08, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB002, date=2026-06-13, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB003, date=2026-05-19, time=18g15",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB003, date=2026-05-23, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB003, date=2026-05-26, time=18g15",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB003, date=2026-05-27, time=18g15",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB003, date=2026-06-01, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB003, date=2026-06-03, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB003, date=2026-06-03, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB003, date=2026-06-03, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB003, date=2026-06-08, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB003, date=2026-06-12, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB003, date=2026-06-13, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB004, date=2026-05-19, time=18g15",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB004, date=2026-05-21, time=18g15",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB004, date=2026-05-23, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB004, date=2026-05-25, time=18g15",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB004, date=2026-05-29, time=18g15",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB004, date=2026-05-30, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB004, date=2026-06-05, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB004, date=2026-06-08, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB004, date=2026-06-08, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB004, date=2026-06-08, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB004, date=2026-06-12, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB005, date=2026-05-23, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB005, date=2026-05-26, time=18g15",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB005, date=2026-05-28, time=18g15",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB005, date=2026-06-01, time=18g15",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB005, date=2026-06-03, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB005, date=2026-06-10, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB005, date=2026-06-12, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB005, date=2026-06-13, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB005, date=2026-06-13, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB005, date=2026-06-13, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB006, date=2026-05-29, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB006, date=2026-05-31, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB006, date=2026-06-01, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB006, date=2026-06-03, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB006, date=2026-06-08, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB006, date=2026-06-08, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB006, date=2026-06-08, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB006, date=2026-06-09, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB006, date=2026-06-10, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB006, date=2026-06-12, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB007, date=2026-05-28, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB007, date=2026-05-29, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB007, date=2026-06-02, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB007, date=2026-06-03, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB007, date=2026-06-08, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB007, date=2026-06-08, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB007, date=2026-06-09, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB007, date=2026-06-09, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB007, date=2026-06-11, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB007, date=2026-06-13, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB008, date=2026-05-29, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB008, date=2026-06-01, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB008, date=2026-06-03, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB008, date=2026-06-03, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB008, date=2026-06-04, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB008, date=2026-06-09, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB008, date=2026-06-10, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB008, date=2026-06-12, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB008, date=2026-06-12, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB008, date=2026-06-12, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB008, date=2026-06-13, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB009, date=2026-05-25, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB009, date=2026-06-01, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB009, date=2026-06-03, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB009, date=2026-06-05, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB009, date=2026-06-09, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB009, date=2026-06-09, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB009, date=2026-06-10, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB009, date=2026-06-12, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB009, date=2026-06-12, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB009, date=2026-06-12, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB009, date=2026-06-13, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB010, date=2026-05-28, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB010, date=2026-05-28, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB010, date=2026-05-28, time=18g15",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB010, date=2026-06-01, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB010, date=2026-06-02, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB010, date=2026-06-12, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB011, date=2026-05-28, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB011, date=2026-06-01, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB011, date=2026-06-02, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB011, date=2026-06-08, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB011, date=2026-06-12, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB012, date=2026-05-25, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB012, date=2026-05-28, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB012, date=2026-05-31, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB012, date=2026-06-02, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB012, date=2026-06-02, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB012, date=2026-06-03, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB012, date=2026-06-05, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB012, date=2026-06-05, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB012, date=2026-06-08, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB012, date=2026-06-10, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB012, date=2026-06-12, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB013, date=2026-05-19, time=18g15",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB013, date=2026-06-02, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB013, date=2026-06-03, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB013, date=2026-06-03, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB013, date=2026-06-03, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB013, date=2026-06-05, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB013, date=2026-06-09, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB013, date=2026-06-10, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB013, date=2026-06-12, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB013, date=2026-06-12, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB013, date=2026-06-12, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB014, date=2026-05-29, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB014, date=2026-06-01, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB014, date=2026-06-03, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB014, date=2026-06-03, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB014, date=2026-06-03, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB014, date=2026-06-04, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB014, date=2026-06-10, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB014, date=2026-06-12, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB014, date=2026-06-12, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB014, date=2026-06-12, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB014, date=2026-06-13, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB015, date=2026-05-25, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB015, date=2026-06-02, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB015, date=2026-06-02, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB015, date=2026-06-02, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB015, date=2026-06-03, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB015, date=2026-06-03, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB015, date=2026-06-05, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB015, date=2026-06-08, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB015, date=2026-06-10, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB015, date=2026-06-12, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB015, date=2026-06-12, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB016, date=2026-06-01, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB016, date=2026-06-02, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB016, date=2026-06-02, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB016, date=2026-06-04, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB016, date=2026-06-05, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB016, date=2026-06-05, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB016, date=2026-06-09, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB016, date=2026-06-10, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB016, date=2026-06-12, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB016, date=2026-06-13, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB017, date=2026-05-25, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB017, date=2026-06-02, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB017, date=2026-06-03, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB017, date=2026-06-03, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB017, date=2026-06-03, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB017, date=2026-06-05, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB017, date=2026-06-05, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB017, date=2026-06-08, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB017, date=2026-06-11, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB017, date=2026-06-13, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB018, date=2026-05-28, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB018, date=2026-06-01, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB018, date=2026-06-01, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB018, date=2026-06-02, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB018, date=2026-06-02, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB018, date=2026-06-03, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB018, date=2026-06-03, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB018, date=2026-06-03, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB018, date=2026-06-03, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB018, date=2026-06-08, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB018, date=2026-06-09, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB018, date=2026-06-11, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB018, date=2026-06-13, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB018, date=2026-06-13, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB018, date=2026-06-13, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB019, date=2026-05-25, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB019, date=2026-05-28, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB019, date=2026-05-29, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB019, date=2026-06-01, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB019, date=2026-06-01, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB019, date=2026-06-02, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB019, date=2026-06-03, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB019, date=2026-06-03, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB019, date=2026-06-03, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB019, date=2026-06-09, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB019, date=2026-06-11, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB020, date=2026-05-25, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB020, date=2026-05-29, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB020, date=2026-06-01, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB020, date=2026-06-03, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB020, date=2026-06-05, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB020, date=2026-06-08, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB020, date=2026-06-08, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB020, date=2026-06-09, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB020, date=2026-06-11, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB020, date=2026-06-13, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB021, date=2026-05-25, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB021, date=2026-06-01, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB021, date=2026-06-02, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB021, date=2026-06-02, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB021, date=2026-06-03, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB021, date=2026-06-05, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB021, date=2026-06-08, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB021, date=2026-06-10, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB021, date=2026-06-12, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB021, date=2026-06-12, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB021, date=2026-06-13, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB022, date=2026-05-29, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB022, date=2026-06-02, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB022, date=2026-06-03, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB022, date=2026-06-03, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB022, date=2026-06-03, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB022, date=2026-06-03, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB022, date=2026-06-05, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB022, date=2026-06-09, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB022, date=2026-06-11, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB022, date=2026-06-12, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB022, date=2026-06-12, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB023, date=2026-05-25, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB023, date=2026-06-01, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB023, date=2026-06-02, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB023, date=2026-06-02, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB023, date=2026-06-02, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB023, date=2026-06-03, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB023, date=2026-06-05, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB023, date=2026-06-08, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB023, date=2026-06-08, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB023, date=2026-06-10, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB023, date=2026-06-12, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB024, date=2026-05-25, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB024, date=2026-06-01, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB024, date=2026-06-02, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB024, date=2026-06-02, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB024, date=2026-06-04, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB024, date=2026-06-05, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB024, date=2026-06-09, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB024, date=2026-06-11, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB024, date=2026-06-12, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB024, date=2026-06-12, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB025, date=2026-05-25, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB025, date=2026-05-27, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB025, date=2026-06-02, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB025, date=2026-06-02, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB025, date=2026-06-03, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB025, date=2026-06-03, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB025, date=2026-06-03, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB025, date=2026-06-03, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB025, date=2026-06-04, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB025, date=2026-06-09, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB025, date=2026-06-09, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB025, date=2026-06-09, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB025, date=2026-06-10, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB025, date=2026-06-11, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB025, date=2026-06-13, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB026, date=2026-05-27, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB026, date=2026-05-28, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB026, date=2026-06-02, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB026, date=2026-06-03, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB026, date=2026-06-03, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB026, date=2026-06-03, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB026, date=2026-06-05, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB026, date=2026-06-08, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB026, date=2026-06-08, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB026, date=2026-06-11, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB027, date=2026-05-27, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB027, date=2026-05-29, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB027, date=2026-06-02, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB027, date=2026-06-02, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB027, date=2026-06-08, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB028, date=2026-05-27, time=18g15",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB028, date=2026-05-29, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB028, date=2026-06-01, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB028, date=2026-06-05, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB028, date=2026-06-12, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB029, date=2026-05-28, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB029, date=2026-05-29, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB029, date=2026-06-01, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB029, date=2026-06-05, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB029, date=2026-06-12, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB030, date=2026-05-28, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB030, date=2026-06-01, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB030, date=2026-06-02, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB030, date=2026-06-02, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB030, date=2026-06-02, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB030, date=2026-06-03, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB030, date=2026-06-03, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB030, date=2026-06-03, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB030, date=2026-06-10, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB030, date=2026-06-11, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB030, date=2026-06-13, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB031, date=2026-05-28, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB031, date=2026-06-02, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB031, date=2026-06-02, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB031, date=2026-06-02, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB031, date=2026-06-03, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB031, date=2026-06-05, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB031, date=2026-06-09, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB031, date=2026-06-12, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB031, date=2026-06-12, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB031, date=2026-06-12, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB031, date=2026-06-12, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB032, date=2026-05-28, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB032, date=2026-06-01, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB032, date=2026-06-01, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB032, date=2026-06-02, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB032, date=2026-06-05, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB032, date=2026-06-08, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB032, date=2026-06-08, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB032, date=2026-06-10, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB032, date=2026-06-11, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB032, date=2026-06-12, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB033, date=2026-05-28, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB033, date=2026-06-02, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB033, date=2026-06-02, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB033, date=2026-06-02, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB033, date=2026-06-03, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB033, date=2026-06-03, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB033, date=2026-06-03, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB033, date=2026-06-05, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB033, date=2026-06-08, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB033, date=2026-06-09, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB033, date=2026-06-11, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB034, date=2026-05-28, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB034, date=2026-06-02, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB034, date=2026-06-02, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB034, date=2026-06-02, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB034, date=2026-06-03, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB034, date=2026-06-05, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB034, date=2026-06-09, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB034, date=2026-06-09, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB034, date=2026-06-11, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB034, date=2026-06-13, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB034, date=2026-06-13, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB035, date=2026-06-02, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB035, date=2026-06-02, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB035, date=2026-06-02, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB035, date=2026-06-03, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB035, date=2026-06-05, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB035, date=2026-06-05, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB035, date=2026-06-05, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB035, date=2026-06-08, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB035, date=2026-06-08, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB035, date=2026-06-12, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB035, date=2026-06-13, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB036, date=2026-06-02, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB036, date=2026-06-02, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB036, date=2026-06-02, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB036, date=2026-06-03, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB036, date=2026-06-03, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB036, date=2026-06-05, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB036, date=2026-06-08, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB036, date=2026-06-10, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB036, date=2026-06-12, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB036, date=2026-06-12, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB036, date=2026-06-12, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB037, date=2026-05-28, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB037, date=2026-06-01, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB037, date=2026-06-02, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB037, date=2026-06-02, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB037, date=2026-06-02, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB037, date=2026-06-05, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB037, date=2026-06-08, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB037, date=2026-06-08, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB037, date=2026-06-10, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB037, date=2026-06-11, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB037, date=2026-06-12, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB038, date=2026-05-28, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB038, date=2026-05-29, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB038, date=2026-06-01, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB038, date=2026-06-02, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB038, date=2026-06-02, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB038, date=2026-06-02, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB038, date=2026-06-03, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB038, date=2026-06-03, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB038, date=2026-06-03, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB038, date=2026-06-04, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB038, date=2026-06-09, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB038, date=2026-06-10, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB039, date=2026-05-28, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB039, date=2026-05-29, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB039, date=2026-06-01, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB039, date=2026-06-01, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB039, date=2026-06-03, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB039, date=2026-06-03, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB039, date=2026-06-03, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB039, date=2026-06-03, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB039, date=2026-06-04, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB039, date=2026-06-09, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB039, date=2026-06-09, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB039, date=2026-06-11, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB040, date=2026-05-28, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB040, date=2026-06-02, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB040, date=2026-06-02, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB040, date=2026-06-03, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB040, date=2026-06-05, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB040, date=2026-06-08, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB040, date=2026-06-08, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB040, date=2026-06-09, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB040, date=2026-06-11, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB040, date=2026-06-12, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB041, date=2026-05-29, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB041, date=2026-06-01, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB041, date=2026-06-01, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB041, date=2026-06-03, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB041, date=2026-06-03, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB041, date=2026-06-03, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB041, date=2026-06-04, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB041, date=2026-06-04, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB041, date=2026-06-09, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB041, date=2026-06-10, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB041, date=2026-06-11, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB042, date=2026-06-02, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB042, date=2026-06-02, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB042, date=2026-06-02, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB042, date=2026-06-04, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB042, date=2026-06-04, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB042, date=2026-06-04, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB042, date=2026-06-08, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB042, date=2026-06-08, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB042, date=2026-06-09, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB042, date=2026-06-12, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB043, date=2026-05-29, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB043, date=2026-06-01, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB043, date=2026-06-03, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB043, date=2026-06-03, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB043, date=2026-06-05, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB043, date=2026-06-08, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB043, date=2026-06-08, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB043, date=2026-06-08, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB043, date=2026-06-10, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB043, date=2026-06-11, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB044, date=2026-05-29, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB044, date=2026-05-30, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB044, date=2026-06-01, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB044, date=2026-06-01, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB044, date=2026-06-02, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB044, date=2026-06-03, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB044, date=2026-06-05, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB044, date=2026-06-08, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB044, date=2026-06-08, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB044, date=2026-06-10, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB044, date=2026-06-11, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB045, date=2026-05-29, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB045, date=2026-06-02, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB045, date=2026-06-02, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB045, date=2026-06-02, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB045, date=2026-06-03, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB045, date=2026-06-05, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB045, date=2026-06-05, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB045, date=2026-06-08, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB045, date=2026-06-08, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB045, date=2026-06-11, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB045, date=2026-06-12, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB046, date=2026-05-25, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB046, date=2026-05-29, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB046, date=2026-06-01, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB046, date=2026-06-01, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB046, date=2026-06-03, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB046, date=2026-06-05, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB046, date=2026-06-09, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB046, date=2026-06-10, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB046, date=2026-06-12, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB046, date=2026-06-12, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB046, date=2026-06-12, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB047, date=2026-05-29, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB047, date=2026-06-02, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB047, date=2026-06-03, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB047, date=2026-06-05, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB047, date=2026-06-08, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB047, date=2026-06-09, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB047, date=2026-06-11, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB047, date=2026-06-12, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB047, date=2026-06-12, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB047, date=2026-06-12, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB048, date=2026-05-29, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB048, date=2026-06-01, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB048, date=2026-06-01, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB048, date=2026-06-03, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB048, date=2026-06-03, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB048, date=2026-06-03, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB048, date=2026-06-04, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB048, date=2026-06-09, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB048, date=2026-06-09, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB048, date=2026-06-11, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB048, date=2026-06-13, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB049, date=2026-05-25, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB049, date=2026-05-29, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB049, date=2026-06-01, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB049, date=2026-06-02, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB049, date=2026-06-04, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB049, date=2026-06-05, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB049, date=2026-06-09, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB049, date=2026-06-09, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB049, date=2026-06-10, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB049, date=2026-06-11, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB049, date=2026-06-12, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB050, date=2026-05-29, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB050, date=2026-06-01, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB050, date=2026-06-03, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB050, date=2026-06-03, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB050, date=2026-06-05, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB050, date=2026-06-08, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB050, date=2026-06-08, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB050, date=2026-06-10, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB050, date=2026-06-12, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB050, date=2026-06-12, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB050, date=2026-06-12, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB051, date=2026-05-23, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB051, date=2026-05-25, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB051, date=2026-05-29, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB051, date=2026-06-01, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB051, date=2026-06-02, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB051, date=2026-06-02, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB051, date=2026-06-03, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB051, date=2026-06-05, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB051, date=2026-06-09, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB051, date=2026-06-11, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB051, date=2026-06-12, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB052, date=2026-05-29, time=18g15",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB052, date=2026-06-01, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB052, date=2026-06-02, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB052, date=2026-06-03, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB052, date=2026-06-03, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB052, date=2026-06-03, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB052, date=2026-06-08, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB052, date=2026-06-08, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB052, date=2026-06-09, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB052, date=2026-06-11, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB052, date=2026-06-12, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB053, date=2026-06-01, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB053, date=2026-06-03, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB053, date=2026-06-04, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB053, date=2026-06-04, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB053, date=2026-06-04, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB053, date=2026-06-09, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB053, date=2026-06-10, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB053, date=2026-06-12, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB053, date=2026-06-12, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB053, date=2026-06-12, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB054, date=2026-05-29, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB054, date=2026-06-02, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB054, date=2026-06-03, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB054, date=2026-06-03, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB054, date=2026-06-03, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB054, date=2026-06-03, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB054, date=2026-06-05, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB054, date=2026-06-09, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB054, date=2026-06-10, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB054, date=2026-06-12, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB054, date=2026-06-12, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB055, date=2026-05-29, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB055, date=2026-06-01, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB055, date=2026-06-01, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB055, date=2026-06-03, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB055, date=2026-06-05, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB055, date=2026-06-08, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB055, date=2026-06-10, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB055, date=2026-06-12, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB055, date=2026-06-12, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB055, date=2026-06-12, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB055, date=2026-06-12, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB056, date=2026-05-29, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB056, date=2026-06-01, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB056, date=2026-06-01, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB056, date=2026-06-03, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB056, date=2026-06-04, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB056, date=2026-06-08, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB056, date=2026-06-10, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB056, date=2026-06-12, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB056, date=2026-06-12, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB056, date=2026-06-12, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB057, date=2026-05-29, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB057, date=2026-06-01, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB057, date=2026-06-03, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB057, date=2026-06-03, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB057, date=2026-06-03, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB057, date=2026-06-05, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB057, date=2026-06-08, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB057, date=2026-06-08, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB057, date=2026-06-08, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB057, date=2026-06-10, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB057, date=2026-06-11, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB058, date=2026-05-29, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB058, date=2026-06-01, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB058, date=2026-06-01, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB058, date=2026-06-03, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB058, date=2026-06-03, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB058, date=2026-06-03, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB058, date=2026-06-08, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB058, date=2026-06-08, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB058, date=2026-06-08, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB058, date=2026-06-10, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB058, date=2026-06-12, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB059, date=2026-05-25, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB059, date=2026-05-29, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB059, date=2026-06-01, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB059, date=2026-06-03, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB059, date=2026-06-03, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB059, date=2026-06-05, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB059, date=2026-06-08, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB059, date=2026-06-10, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB059, date=2026-06-12, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB059, date=2026-06-12, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB059, date=2026-06-12, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB060, date=2026-05-29, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB060, date=2026-06-01, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB060, date=2026-06-01, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB060, date=2026-06-03, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB060, date=2026-06-03, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB060, date=2026-06-04, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB060, date=2026-06-05, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB060, date=2026-06-10, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB060, date=2026-06-12, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB060, date=2026-06-12, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB060, date=2026-06-12, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB061, date=2026-05-25, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB061, date=2026-05-29, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB061, date=2026-06-01, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB061, date=2026-06-01, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB061, date=2026-06-03, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB061, date=2026-06-05, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB061, date=2026-06-05, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB061, date=2026-06-05, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB061, date=2026-06-08, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB061, date=2026-06-10, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB061, date=2026-06-12, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB062, date=2026-05-25, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB062, date=2026-05-29, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB062, date=2026-06-01, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB062, date=2026-06-01, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB062, date=2026-06-03, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB062, date=2026-06-03, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB062, date=2026-06-03, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB062, date=2026-06-04, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB062, date=2026-06-04, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB062, date=2026-06-10, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB062, date=2026-06-11, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB062, date=2026-06-13, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB063, date=2026-05-29, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB063, date=2026-06-02, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB063, date=2026-06-03, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB063, date=2026-06-03, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB063, date=2026-06-03, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB063, date=2026-06-08, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB063, date=2026-06-10, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB063, date=2026-06-10, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB063, date=2026-06-10, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB063, date=2026-06-10, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB063, date=2026-06-11, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB063, date=2026-06-13, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB064, date=2026-05-21, time=18g15",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB064, date=2026-05-27, time=18g15",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB064, date=2026-05-29, time=18g15",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB064, date=2026-06-05, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB064, date=2026-06-05, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB064, date=2026-06-05, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB064, date=2026-06-08, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB064, date=2026-06-12, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB064, date=2026-06-12, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB064, date=2026-06-12, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB064, date=2026-06-13, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB065, date=2026-05-30, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB065, date=2026-06-01, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB065, date=2026-06-01, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB065, date=2026-06-03, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB065, date=2026-06-04, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB065, date=2026-06-08, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB065, date=2026-06-08, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB065, date=2026-06-08, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB065, date=2026-06-09, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB065, date=2026-06-12, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB066, date=2026-05-22, time=18g15",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB066, date=2026-05-23, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB066, date=2026-05-30, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB066, date=2026-05-30, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB066, date=2026-05-31, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB066, date=2026-05-31, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB066, date=2026-06-02, time=18g15",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB066, date=2026-06-05, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB066, date=2026-06-08, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB066, date=2026-06-12, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB066, date=2026-06-13, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB067, date=2026-06-01, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB067, date=2026-06-01, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB067, date=2026-06-02, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB067, date=2026-06-03, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB067, date=2026-06-05, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB067, date=2026-06-08, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB067, date=2026-06-09, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB067, date=2026-06-11, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB067, date=2026-06-12, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB067, date=2026-06-12, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB067, date=2026-06-12, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB068, date=2026-05-28, time=18g15",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB068, date=2026-06-01, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB068, date=2026-06-01, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB068, date=2026-06-02, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB068, date=2026-06-02, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB068, date=2026-06-05, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB068, date=2026-06-08, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB068, date=2026-06-08, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB068, date=2026-06-11, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB068, date=2026-06-12, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB069, date=2026-06-02, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB069, date=2026-06-02, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB069, date=2026-06-02, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB069, date=2026-06-03, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB069, date=2026-06-05, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB069, date=2026-06-08, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB069, date=2026-06-08, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB069, date=2026-06-11, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB069, date=2026-06-12, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB069, date=2026-06-12, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB069, date=2026-06-12, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB070, date=2026-05-29, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB070, date=2026-06-02, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB070, date=2026-06-02, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB070, date=2026-06-02, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB070, date=2026-06-03, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB070, date=2026-06-03, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB070, date=2026-06-03, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB070, date=2026-06-05, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB070, date=2026-06-08, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB070, date=2026-06-12, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB070, date=2026-06-13, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB071, date=2026-06-02, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB071, date=2026-06-02, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB071, date=2026-06-03, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB071, date=2026-06-03, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB071, date=2026-06-03, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB071, date=2026-06-05, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB071, date=2026-06-08, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB071, date=2026-06-08, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB071, date=2026-06-09, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB071, date=2026-06-11, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB071, date=2026-06-12, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB072, date=2026-05-31, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB072, date=2026-06-01, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB072, date=2026-06-03, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB072, date=2026-06-08, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB072, date=2026-06-08, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB072, date=2026-06-09, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB072, date=2026-06-10, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB072, date=2026-06-12, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB072, date=2026-06-12, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB072, date=2026-06-12, time=15g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB072, date=2026-06-13, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB073, date=2026-05-25, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB073, date=2026-05-29, time=07g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB073, date=2026-06-01, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB073, date=2026-06-01, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB073, date=2026-06-03, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB073, date=2026-06-04, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB073, date=2026-06-09, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB073, date=2026-06-10, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB073, date=2026-06-13, time=09g30",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB073, date=2026-06-13, time=13g00",max 1 assignment,1,PASS
+H4 No overlap,"CB=CB073, date=2026-06-13, time=15g30",max 1 assignment,1,PASS
+H5 Workload cap,"CB=CB001, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB002, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB003, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB004, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB005, tier=MID",16,10,PASS
+H5 Workload cap,"CB=CB006, tier=MID",16,10,PASS
+H5 Workload cap,"CB=CB007, tier=MID",16,10,PASS
+H5 Workload cap,"CB=CB008, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB009, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB010, tier=SENIOR",8,6,PASS
+H5 Workload cap,"CB=CB011, tier=SENIOR",8,5,PASS
+H5 Workload cap,"CB=CB012, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB013, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB014, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB015, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB016, tier=MID",16,10,PASS
+H5 Workload cap,"CB=CB017, tier=MID",16,10,PASS
+H5 Workload cap,"CB=CB018, tier=JUNIOR",18,15,PASS
+H5 Workload cap,"CB=CB019, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB020, tier=MID",16,10,PASS
+H5 Workload cap,"CB=CB021, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB022, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB023, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB024, tier=MID",16,10,PASS
+H5 Workload cap,"CB=CB025, tier=MID",16,15,PASS
+H5 Workload cap,"CB=CB026, tier=MID",16,10,PASS
+H5 Workload cap,"CB=CB027, tier=SENIOR",8,5,PASS
+H5 Workload cap,"CB=CB028, tier=SENIOR",8,5,PASS
+H5 Workload cap,"CB=CB029, tier=SENIOR",8,5,PASS
+H5 Workload cap,"CB=CB030, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB031, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB032, tier=MID",16,10,PASS
+H5 Workload cap,"CB=CB033, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB034, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB035, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB036, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB037, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB038, tier=JUNIOR",18,12,PASS
+H5 Workload cap,"CB=CB039, tier=MID",16,12,PASS
+H5 Workload cap,"CB=CB040, tier=MID",16,10,PASS
+H5 Workload cap,"CB=CB041, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB042, tier=MID",16,10,PASS
+H5 Workload cap,"CB=CB043, tier=JUNIOR",18,10,PASS
+H5 Workload cap,"CB=CB044, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB045, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB046, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB047, tier=MID",16,10,PASS
+H5 Workload cap,"CB=CB048, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB049, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB050, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB051, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB052, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB053, tier=MID",16,10,PASS
+H5 Workload cap,"CB=CB054, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB055, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB056, tier=MID",16,10,PASS
+H5 Workload cap,"CB=CB057, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB058, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB059, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB060, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB061, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB062, tier=MID",16,12,PASS
+H5 Workload cap,"CB=CB063, tier=MID",16,12,PASS
+H5 Workload cap,"CB=CB064, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB065, tier=MID",16,10,PASS
+H5 Workload cap,"CB=CB066, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB067, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB068, tier=MID",16,10,PASS
+H5 Workload cap,"CB=CB069, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB070, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB071, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB072, tier=JUNIOR",18,11,PASS
+H5 Workload cap,"CB=CB073, tier=JUNIOR",18,11,PASS

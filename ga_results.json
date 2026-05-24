@@ -1,0 +1,24 @@
+{
+  "algorithm": "Genetic Algorithm",
+  "population": 40,
+  "generations": 80,
+  "wall_time_seconds": 6.34,
+  "best_workload_std": 1.859,
+  "best_travel": 47,
+  "best_violations": 0,
+  "best_total_cost": 7850,
+  "convergence_first_5_gen": [
+    25947.0,
+    19892.0,
+    17812.0,
+    16717.0,
+    14659.0
+  ],
+  "convergence_last_5_gen": [
+    9469.0,
+    9469.0,
+    9469.0,
+    9469.0,
+    9388.0
+  ]
+}
